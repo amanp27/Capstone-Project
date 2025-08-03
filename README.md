@@ -89,12 +89,12 @@ Capstone-Project/
 
 <h4>MLflow Tracking UI<h4>
 <img src="Images/MLFLow_Model.png" alt="MLflow Model Registry UI" width="400"/>
-<h4>MLflow Experiment Tracking</h4>
-<img src="Images/ML_Flow_Experiments.png" alt="MLflow Experiments" width="400"/>
-<h4>☁️ AWS S3 Bucket Structure</h4>
-<img src="Images/AWS S3.png" alt="AWS S3" width="400"/>
 <h4>🔁 GitHub Actions - CI/CD Pipeline</h4>
 <img src="Images/GitHub Actions.png" alt="GitHub Actions CI/CD" width="400"/>
+<h4>☁️ AWS S3 Bucket Structure</h4>
+<img src="Images/AWS S3.png" alt="AWS S3" width="400"/>
+<h4>MLflow Experiment Tracking</h4>
+<img src="Images/ML_Flow_Experiments.png" alt="MLflow Experiments" width="400"/>
 
 ---
 
