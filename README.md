@@ -121,6 +121,8 @@ Automated pipelines with GitHub Actions
 
 Model lifecycle management using MLflow
 
-📬 Contact
+### 📬 Contact
+
 Aman Prajapati
+
 LinkedIn | GitHub
