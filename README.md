@@ -87,7 +87,7 @@ Capstone-Project/
 
 ## 📸 Screenshots
 
-<!-- Add relevant screenshots of MLflow UI, Grafana dashboards, Docker logs, etc. -->
+![MLflow UI](Images/MLFlow_Model.png)
 
 ---
 
